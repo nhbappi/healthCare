@@ -1,10 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyB1KfMYdyZZ5H7tiTaQfRQ8wJJ4nyCaWGM",
-    authDomain: "medical-life-8ea41.firebaseapp.com",
-    projectId: "medical-life-8ea41",
-    storageBucket: "medical-life-8ea41.appspot.com",
-    messagingSenderId: "708115551936",
-    appId: "1:708115551936:web:2512dcc476782abc943f25",
-};
+    apiKey: "AIzaSyBcPE0-f16NK7amJPMC-ZREnXEEYU_9998",
+    authDomain: "healthcare-9ed42.firebaseapp.com",
+    projectId: "healthcare-9ed42",
+    storageBucket: "healthcare-9ed42.appspot.com",
+    messagingSenderId: "136160835924",
+    appId: "1:136160835924:web:6c1628901e27046890f0c1",
+    measurementId: "${config.measurementId}"
+  };
 
 export default firebaseConfig;
